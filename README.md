@@ -1,2 +1,2 @@
-# BeadAngles
-Kinda like triangles but instad of 3 sides, theres Bead.
+# DogeLib
+Doge's swiss army knife of reusable code
